@@ -1,0 +1,18 @@
+{
+  "name": "twitcher-backend",
+  "version": "1.0.0",
+  "description": "A backend app for twitcher",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vlad",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
